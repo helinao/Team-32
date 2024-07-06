@@ -1,6 +1,6 @@
 # Team-32
 
-##Members:
+## Members:
 - Helina
 - Marija
 - Džūlija
